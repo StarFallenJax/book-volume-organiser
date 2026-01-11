@@ -4,7 +4,7 @@ copies files from chapter subfolders into a single unified volume folder while r
 
 intended for organising scanned books manga chapters or other image based volumes from [HakuNeko](https://hakuneko.download/) and similar tools    
 
-originally created by [KojoBailey](https://github.com/KojoBailey/book-volume-organiser), proper usage after using the tool can be seen in their complete guide [here](https://gist.github.com/KojoBailey/722d0f599a2279a6bee24ba07eaf2728)
+originally created by [KojoBailey](https://github.com/KojoBailey/book-volume-organiser), proper usage after using the tool can be seen in their complete guide [here](https://gist.github.com/KojoBailey/722d0f599a2279a6bee24ba07eaf2728), though tbh, i would just use kindle comic converter instead of what they do, especially if you're using apple books (like they are)
 
 ## what it does
 
