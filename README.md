@@ -4,6 +4,8 @@ copies files from chapter subfolders into a single unified volume folder while r
 
 intended for organising scanned books manga chapters or other image based volumes from [HakuNeko](https://hakuneko.download/) and similar tools    
 
+originally created by [KojoBailey](https://github.com/KojoBailey/book-volume-organiser), proper usage after using the tool can be seen in their complete guide [here](https://gist.github.com/KojoBailey/722d0f599a2279a6bee24ba07eaf2728)
+
 ## what it does
 
 - one input volume folder (created manually) containing chapter subfolders (which should have been created by HakuNeko, or equivalent)
