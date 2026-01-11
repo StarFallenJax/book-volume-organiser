@@ -7,16 +7,9 @@ intended for organising scanned books manga chapters or other image based volume
 originally created by [KojoBailey](https://github.com/KojoBailey/book-volume-organiser), proper usage after using the tool can be seen in their complete guide [here](https://gist.github.com/KojoBailey/722d0f599a2279a6bee24ba07eaf2728), though tbh, i would just use kindle comic converter instead of what they do, especially if you're using apple books (like they are)
 
 ## what it does
+reformats the file structure of exported manga/comic/book images so that it can be easily imported and sorted into tools like [calibre](https://calibre-ebook.com/download) and [kindle comic converter](https://github.com/ciromattia/kcc)
 
-- one input volume folder (created manually) containing chapter subfolders (which should have been created by HakuNeko, or equivalent)
-- each subfolder is treated as a chapter
-- all files are copied into a single output folder
-- files are renamed using chapter index per chapter index and global index
-- original filenames are ignored except for the file extension
-- works natively on mac, windows, and linux
-- useful for easy imports into [calibre](https://calibre-ebook.com/download) or other epub editors
-
-before
+>before
 ```
 volume/
 ├── chapter 01/
@@ -28,7 +21,7 @@ volume/
 │   ├── 02.jpg
 │   └── 03.jpg
 ```
-after
+>after
 ```
 organised volume/
 ├── Ch1-1 (1).jpg
