@@ -93,7 +93,7 @@ python organise_volume.py "/path/to/volume" -o "/path/to/output"
 
 free to use modify and distribute
 
-original idea from [KojoBailey](https://github.com/KojoBailey/book-volume-organiser)
+original idea from [KojoBailey](https://github.com/KojoBailey/book-volume-organiser). i just wanted a version that worked natively on mac :P
 
 
 
